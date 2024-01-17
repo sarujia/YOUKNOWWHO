@@ -5,5 +5,5 @@ A shooting game of Harry Potter and Voldemort's fight
 趙　雅芝	ユジョンウン	汪　紫衣	李 昱卓
 
 # Usage program:
-JavaScript
-unity
+c
+ＤＸライブラリ
